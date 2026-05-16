@@ -73,7 +73,7 @@ def home():
                 <p>✔ Jenkins CI/CD Working</p>
 
                 <button class="btn" onclick="alert('Pipeline is working successfully!')">
-                    Check Pipeline
+                    Check Pipeline Complete
                 </button>
             </div>
         </div>
